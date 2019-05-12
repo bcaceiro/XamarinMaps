@@ -22,12 +22,12 @@
                   VerticalOptions="FillAndExpand" />
 
 
-        <Frame Grid.Row="1"
-               x:Name="frameListView"
+        <Frame x:Name="frameListView"
+               Grid.Row="1"
                CornerRadius="20"
                HasShadow="false">
-            
-               
+
+
             <ListView x:Name="myListView" SeparatorVisibility="None">
                 <ListView.ItemTemplate>
                     <DataTemplate>
@@ -52,15 +52,15 @@
                Grid.RowSpan="1"
                BackgroundColor="#303F9F "
                CornerRadius="20"
-               Visual="Default"
                HasShadow="false"
                TranslationY="{Binding Source={x:Reference RootPage}, Path=Height}"
+               Visual="Default"
                VerticalOptions="FillAndExpand">
             <Frame.GestureRecognizers>
                 <TapGestureRecognizer NumberOfTapsRequired="1" Tapped="Handle_Tapped" />
             </Frame.GestureRecognizers>
 
-            
+
 
             <StackLayout Spacing="10">
 
@@ -87,7 +87,7 @@
                         Clicked="OnButtonClicked"
                         CornerRadius="25"
                         Text="Navigate"
-                        TextColor="#575354"                        
+                        TextColor="#575354"
                         Visual="Material"
                         HorizontalOptions="Center"
                         VerticalOptions="Center" />

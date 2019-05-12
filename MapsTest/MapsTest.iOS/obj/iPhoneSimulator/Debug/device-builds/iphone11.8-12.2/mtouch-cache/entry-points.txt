@@ -1,0 +1,1412 @@
+Function=xamarin_timezone_get_names
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldFontThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionNumber
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionString
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultMinTextFieldWidth
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultContentEdgeInsets
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipField
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorTransition
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertAction
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBar
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarContainerViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarNavigationController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseCell
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicColorScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicFontScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerPresentationController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerTransitionController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBar
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetControllerShapeThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetPresentationController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetTransitionController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButton
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBar
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarButton
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonShapeThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTitleColorAccessibilityMutator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCard
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardCollectionCell
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsShapeThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewCell
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewFlowLayout
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewFontThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewShapeThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kDeselectedCellAccessibilityHintKey
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kSelectedCellAccessibilityHintKey
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCollectionViewCellStyleCardSectionInset
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewCell
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewFlowLayout
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewLayoutAttributes
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineHeight
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineWithAvatarHeight
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultThreeLineHeight
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultTwoLineHeight
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewTextCell
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCornerTreatment
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedCornerTreatment
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedRectShapeGenerator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCutCornerTreatment
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogPresentationController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogTransitionController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCEdgeTreatment
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightAccessibilityMutator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightFontThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kMDCFeatureHighlightOuterHighlightAlpha
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFilledTextFieldColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlatButton
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderContainerViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingActionButtonThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButton
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonShapeThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackViewColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIcons
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkGestureRecognizer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkTouchController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIntrinsicHeightTextView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillChangeFrameNotification
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillHideNotification
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillShowNotification
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCKeyboardWatcher
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCLibraryInfo
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMaskedTransitionController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMultilineTextField
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBar
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTextColorAccessibilityMutator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNumericValueLabel
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedTextFieldColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayObserver
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayWindow
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControl
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControlColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent100Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent200Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent400Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent700Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint100Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint200Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint300Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint400Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint500Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint50Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint600Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint700Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint800Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint900Name
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPalette
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPathGenerator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPillShapeGenerator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressViewColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRaisedButton
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRectangleShapeGenerator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRoundedCornerTreatment
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSelfSizingStereoCell
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSemanticColorScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowLayer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowMetrics
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeCategory
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedShadowLayer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlantedRectShapeGenerator
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlider
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSliderColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarFontThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarManager
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageBoldAttributeName
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageDurationMax
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessage
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageAction
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSystemFontLoader
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBar
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarFontThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarIndicatorAttributes
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarTypographyThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarUnderlineIndicatorTemplate
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTabBarViewControllerAnimationDuration
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarViewController
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonColorThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonThemer
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextFieldTextDidSetTextNotification
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputDidToggleEnabledNotification
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextField
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputAllCharactersCounter
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputBorderView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputControllerBaseDefaultBorderRadius
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerBase
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFilled
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFullWidth
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyDefault
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyFullWidth
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlined
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlinedTextArea
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerUnderline
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputUnderlineView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbTrack
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbView
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalColorScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalPalette
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTriangleEdgeTreatment
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypography
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypographyScheme
+	/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

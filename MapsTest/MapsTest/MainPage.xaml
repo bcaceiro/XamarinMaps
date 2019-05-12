@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="MapsTest.MainPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MapsTest"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Name="RootPage"
+             Visual="Material">
+    <Grid RowSpacing="0">
+        <!--  Place new controls here  -->
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+
+        <maps:Map x:Name="MyMap"
+                  IsShowingUser="true"
+                  MapType="Street"
+                  VerticalOptions="FillAndExpand" />
+
+
+        <Frame Grid.Row="1"
+               x:Name="frameListView"
+               CornerRadius="20"
+               HasShadow="false">
+            
+               
+            <ListView x:Name="myListView" SeparatorVisibility="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="20,0,20,0" VerticalOptions="Center">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label FontAttributes="Bold" Text="{Binding Id}" />
+                                <Label Grid.Column="1" Text="{Binding Name}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Frame>
+
+        <Frame x:Name="detailsFrame"
+               Grid.Row="0"
+               Grid.RowSpan="1"
+               BackgroundColor="#303F9F "
+               CornerRadius="20"
+               Visual="Default"
+               HasShadow="false"
+               TranslationY="{Binding Source={x:Reference RootPage}, Path=Height}"
+               VerticalOptions="FillAndExpand">
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer NumberOfTapsRequired="1" Tapped="Handle_Tapped" />
+            </Frame.GestureRecognizers>
+
+            
+
+            <StackLayout Spacing="10">
+
+
+                <Label x:Name="frameLabel"
+                       FontAttributes="Bold"
+                       FontSize="Large"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+
+
+
+                <Image x:Name="imagePlace"
+                       WidthRequest="200"
+                       HeightRequest="200"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+
+
+                <Button WidthRequest="150"
+                        HeightRequest="50"
+                        BackgroundColor="White"
+                        Clicked="OnButtonClicked"
+                        CornerRadius="25"
+                        Text="Navigate"
+                        TextColor="#575354"                        
+                        Visual="Material"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center" />
+
+
+
+
+            </StackLayout>
+
+
+
+
+        </Frame>
+
+
+
+    </Grid>
+</ContentPage>

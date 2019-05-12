@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8DC2715A-C62D-4909-91F7-AA82BB9F310C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MapsTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.35FD85F8-0C4D-422D-A313-60AA42855A03" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapsTest/MainPage.xaml">
+    <Files>
+      <File FileName="MapsTest/MainPage.xaml" />
+      <File FileName="MapsTest/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="MapsTest/MainPage.xaml.cs" Line="155" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MapsTest" expanded="True">
+            <Node name="MapsTest" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="MapsTest.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MapsTest.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

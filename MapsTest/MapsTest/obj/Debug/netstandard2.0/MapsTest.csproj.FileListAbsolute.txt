@@ -1,0 +1,12 @@
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/bin/Debug/netstandard2.0/MapsTest.deps.json
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/bin/Debug/netstandard2.0/MapsTest.dll
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/bin/Debug/netstandard2.0/MapsTest.pdb
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MapsTest.csprojAssemblyReference.cache
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MapsTest.csproj.CoreCompileInputs.cache
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MapsTest.AssemblyInfoInputs.cache
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MapsTest.AssemblyInfo.cs
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MapsTest.dll
+/Users/bcaceiro/Documents/IPN-DEV/XamarinVisualExperiments/MapTests/MapsTest/MapsTest/obj/Debug/netstandard2.0/MapsTest.pdb
